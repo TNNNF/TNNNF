@@ -1,6 +1,14 @@
 Hello there 👋 my name ist Timo. I am a mathematics and computer science student since 2022. \
-Usually, I prefer coding in Python but if necessary I also code in C# and Java. \
-Yet, I am very interested in functional programming. Therefore, I am currently studying Scala and Common Lisp.
+Here you can find some key facts about me:
+- Programming Languages:
+  - Learned: Python, Java, C#, JavaScript and some basics in OCaml
+  - Currently learning: Scala and Common Lisp
+- DevOps:
+  - Learned: Docker
+  - Currently learning: GitHub Actions
+- Languages:
+  - Fluent: German, English
+  - Currently learning: French, Norwegian
 
 <!--
 **TNNNF/TNNNF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

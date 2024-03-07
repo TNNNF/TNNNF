@@ -9,6 +9,8 @@ Here you can find some key facts about me:
 - Languages:
   - Fluent: German, English
   - Currently learning: French, Norwegian
+- Personal interests: Chess ♟️, reading (Fantasy, Horror but also non-fiction), going for walks with podcasts
+- Recommendation: The Magnus Archives 
 
 <!--
 **TNNNF/TNNNF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

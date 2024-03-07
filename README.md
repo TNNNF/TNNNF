@@ -1,4 +1,6 @@
-Hello there 👋 my name ist Timo. I am a mathematics and computer science student since 2022.
+Hello there 👋 my name ist Timo. I am a mathematics and computer science student since 2022. \
+Languages: Python, C# and Java \
+Currently learning: Scala, Common Lisp
 
 <!--
 **TNNNF/TNNNF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

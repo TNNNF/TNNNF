@@ -7,7 +7,7 @@ Here you can find some key facts about me:
   - Learned: Docker
   - Currently learning: GitHub Actions
 - Languages:
-  - Fluent: German, English
+  - Fluent: German 🇩🇪, English
   - Currently learning: French, Norwegian
 - Personal interests: Chess ♟️, reading (Fantasy, Horror but also non-fiction), going for walks with podcasts
 - Recommendation: The Magnus Archives 

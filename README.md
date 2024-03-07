@@ -1,7 +1,7 @@
 Hello there 👋 my name ist Timo. I am a mathematics and computer science student since 2022. \
 Here you can find some key facts about me:
-- Programming Languages:
-  - Learned: Python, Java, C#, JavaScript and some basics in OCaml
+- Programming/Query Languages:
+  - Learned: Python, Java, C#, JavaScript, SQL and some basics in OCaml
   - Currently learning: Scala and Common Lisp
 - DevOps:
   - Learned: Docker
